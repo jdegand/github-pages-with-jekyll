@@ -1,3 +1,9 @@
+---
+title: "Python Loops"
+date: 2020-09-03
+---
+
+
 Python only has a for loop and a while loop.  This makes recursion more important than ever.  Recursion is simply a function calling itelf.
 A factorial function is the prime example of this.  To stop recursion, it is necessary to have a base case that will be reached.  Otherwise, you get
 infinite recursion.  
